@@ -1,2 +1,2 @@
 # BaseballSimulation
-Calculating the statistically proven best player for baseball situations
+A baseball scoring application that uses statistics to create competitive advantages.
